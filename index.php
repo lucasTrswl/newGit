@@ -32,22 +32,31 @@
            }
 
            h1{
-             font-family: 'Merriweather', serif;
+             font-family: 'Road Rage', cursive;
            }
     </style>
 
+<nav class="navbar navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img src="/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
+      NewGit
+    </a>
+  </div>
+</nav>
 
+<div class="container">
 
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="" class="d-block w-100" alt="...">
+      <img src="git.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="git2.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="git3.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -59,9 +68,22 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+
+
+
+<h1>Définition</h1>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis vero temporibus ab, recusandae aliquid tenetur, sapiente eligendi, nisi consectetur molestiae veniam asperiores ratione culpa incidunt deleniti ipsum! Nostrum, pariatur. Excepturi, aliquam sapiente. Hic consectetur itaque minus? Dolorem unde harum cum ad maiores repellat. Quod, dicta expedita! Reprehenderit, commodi quisquam. Impedit!</p>
+
+          </div>
+      
+
+
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
     
+
+
   </body>
 </html>
