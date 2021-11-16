@@ -24,16 +24,12 @@
     <title>newGit</title>
   </head>
   <body>
-<<<<<<< HEAD
-    <h1 class="text-center">T-shirt Corner</h1>
-=======
     <header>
       <nav>
      <h1 class="bg bg-info">NewGit</h1>
 
 </nav>
     <h1 class="text-center">new Git</h1>
->>>>>>> 4b7392c4fe37ebf881d11909650c9f93e7a01d78
 
     <style>
            body {
@@ -42,50 +38,6 @@
            }
 
            h1{
-<<<<<<< HEAD
-             font-family: 'Road Rage', cursive;
-           }
-
-           #carouselExampleControls{
-             justify-content: center;
-             width: 100%;
-
-           }
-
-           #image{
-             justify-content: space-between;
-           }
-
-          
-
-           
-
-          
-    </style>
-
-<nav class="navbar navbar-light bg-warning">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">
-      <img src="/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
-      T-shirt Corner
-    </a>
-  </div>
-</nav>
-
-<div class="container">
-<main>
- 
-<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="t-shirt1.jpg" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="t-shirt-2.jpg" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="t-shirt-3.jpg" class="d-block w-100" alt="...">
-=======
              font-family: 'Merriweather', serif;
              color: white;
            }
@@ -109,7 +61,6 @@
     </div>
     <div class="carousel-item">
       <img src="git3.jpg" class="d-block w-100" alt="...">
->>>>>>> 4b7392c4fe37ebf881d11909650c9f93e7a01d78
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -121,7 +72,6 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-<<<<<<< HEAD
 <br><br>
           
           
@@ -188,10 +138,5 @@
     
 
 
-=======
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-
-          </div>
->>>>>>> 4b7392c4fe37ebf881d11909650c9f93e7a01d78
   </body>
 </html>
